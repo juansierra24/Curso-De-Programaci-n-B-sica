@@ -1,4 +1,4 @@
-# Obtener parámetros de la URL
+# Primer Ejercicio - Obtener Parámetros de la URL y mostrarlos en Alertas
 
 - Copia la siguiente url y pegala en un navegador `https://www.google.com/?nombre=juan&edad=28`
 
