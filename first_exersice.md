@@ -2,8 +2,8 @@
 
 - Copia la siguiente url y pegala en un navegador `https://www.google.com/?nombre=juan&edad=28`
 
-    > [!NOTE]
-        En la URL reemplace los valores `juan` y `28` por su nombre y su edad.
+  > [!NOTE]
+    En la URL reemplace los valores `juan` y `28` por su nombre y su edad.
 
 
 - Abra la consola del navegador como se explicó en clase:
