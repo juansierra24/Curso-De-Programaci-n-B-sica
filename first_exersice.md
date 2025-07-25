@@ -22,3 +22,12 @@ params.forEach((value, key) => alert(`su ${key} es: ${value}`));
 ![alt text](image.png)
 - despues de presionar en aceptar deberá salirle otra alerta
 ![alt text](image-2.png)
+
+> [!TIP]
+    Intente añadir nuevos parámetros a la URL, tenga en cuenta que el separador es el `&`. por ejemplo, si quiere añadir la ciudad, la URL debería quedar así `https://www.google.com/?nombre=juan&edad=28&ciudad=neiva`
+
+> [!NOTE]
+    Tenga en cuenta que al modificar la URL y presionar ENTER, la página recarga y por lo tanto la consola también inicia desde cero. Es decir, que al cambiar la URL deberá volver a copiar y pegar el bloque de código. Esta vez, debería aparecer una tercer alerta como la siguiente 
+
+![alt text](image-3.png)
+    
